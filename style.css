@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding:0;
+    
+  }
+  /* header part start */
+  header{
+    width: 60%;
+    margin: 0 auto;
+    background: #929292;;
+    overflow: hidden;
+    box-shadow: 1px 8px 20px #545454;
+  }
+  .picture img{
+    display: block;
+    padding: 15px;
+    margin-left: 15px;
+    border-radius: 100px;
+    float: left;
+  
+  }
+  .sure-name{
+   float: right;
+    display: block;
+    margin: 0  auto;
+    width: 70%;
+    
+  }
+  .sure-name h1{
+    margin-top: 50px;
+    font-size: 45px;
+    color: #eacc70;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Hammersmith One', sans-serif;
+  }
+  .sure-name p{
+    font-family: 'Great Vibes', cursive;
+    font-weight: 600;
+    letter-spacing: 1px;
+  }
+  
+  
+  .container{
+    width: 60%;
+    margin: 0 auto;
+   
+  }
+  
+  .left-part{
+    width: 30%;
+    float: left;
+  }
+  
+  .contact{
+    background: #4E98B5;
+    padding: 10px 30px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    box-shadow: 1px 5px 8px #476772;
+  }
+  .contact p{
+    line-height: 1.5em;
+    }
+  .contact h2{
+    padding: 8px 0px;
+  }
+  
+  
+  .languages{
+    background: #FF5B58;
+    padding: 20px 30px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    box-shadow: 1px 6px 15px #bc5654;
+  }
+  .languages h2{
+    padding: 6px 0px;
+  }
+  .languages p{
+    line-height: 2em;
+    
+  }
+  .line{
+    border: 2px solid #ddd;
+    width: 95%;
+  }
+  .lin{
+    border: 2px solid #ddd;
+    width: 100%;
+  }
+  .li{
+    border: 2px solid #ddd;
+    width:80%;
+  }
+  .l{
+    border: 2px solid #ddd;
+    width:75%;
+  }
+  
+  .skills{
+    background: #aebf48;
+    padding: 20px 30px;
+    color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+    box-shadow: 1px 6px 15px #858c5b;
+  }
+  .css{
+    width: 80%;
+    border: 2px solid #ddd;
+  }
+  .js{
+    width: 75%;
+    border: 2px solid #ddd;
+  }
+  .py{
+    width: 70%;
+    border: 2px solid #ddd;
+  }
+  .skills h2{
+     padding: 6px 0px;
+  }
+  .skills p{
+    line-height: 2em;
+  }
+  .lol{
+    padding: 50px;
+    background: #FF8E42;
+     box-shadow: 1px 5px 8px #ad6637;
+  }
+  /*left part end*/
+  
+  /* right part start */
+  .right-part{
+    width: 70%;
+    float: right;
+    
+  }
+  .profasional-profile{
+    padding: 20px 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  .profasional-profile h2{
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 28px;
+    padding-bottom: 5px;
+  }
+  .profasional-profile p{
+    line-height: 1.2em;
+    border-right: 5px solid #6d6864;
+    padding-right: 5px;
+  }
+  .education{
+    padding: 20px 30px;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  .education h2{
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 28px;
+    padding-bottom: 5px;
+  }
+  .education p{
+    line-height: 1.5em;
+  }
+  .border{
+    width: 90%;
+    height:auto ;
+    margin: 0  auto;
+    border: 1px solid black;
+  }
+  
